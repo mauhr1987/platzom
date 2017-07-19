@@ -1,0 +1,22 @@
+{
+  "name": "platzom",
+  "version": "0.1.0",
+  "description": "Traductor de idioma platzom",
+  "main": "index.js",
+  "scripts": {
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mauhr1987/platzom.git"
+  },
+  "keywords": [
+    "platzom",
+    "platzi",
+    "fundamentos",
+    "javascript",
+    "js"
+  ],
+  "author": "Mauricio Hidalgo <mhidalgodg@gmail.com> (https://www.facebook.com/mauricio.hidr)",
+  "license": "MIT"
+}
